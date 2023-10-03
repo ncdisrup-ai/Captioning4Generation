@@ -1,5 +1,5 @@
 # Captioning4Generation
-caption image  and with that base generate new images (with stable diffusion and in gradio UI)
+Caption image  and with that base generate new images (with stable diffusion and in gradio UI)
 
 
 ## 🤔 What is this?
@@ -7,6 +7,7 @@ caption image  and with that base generate new images (with stable diffusion and
 Are you ready for the game? to caption image  and with that base generate new images (with stable diffusion and in gradio UI)
 -  Image Captioning with BLIP model
 -  Image Generation with Stable Diffusion model
+
 With gradio UI
 
 
@@ -23,8 +24,11 @@ Due to the power of GPU needed i advise you to use colab with `Captioning4Genera
 
 
 
-## 📖 Documentation
+## 📖 Documentation / UI
 
-
+🧮 **Captioning4Generation UI**: 
+<p align="center">
+<img src="docs/Captioning4Generation_UI.png" width="900" > 
+</p>
 
 Please see the description in .ipynb about this project.
